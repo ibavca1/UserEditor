@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HYQijeAdAR8lpdl20Rm5yVlzs4ktIxuBAYbRHiMB8ZstvEvJZGMbhpkTno77xbCSw595HEK0/6GJtK23yM/2Ow==",
+  "dgSpecHash": "eIGqqLXH8iZ6M/td/Lw2mpRNeiwmA5eONX296b8FiLeHLTCkLPcPxnh4K0HwveO26I9/aoh4j6ILnlPQsxtQ4Q==",
   "success": true,
   "projectFilePath": "/Users/anton/RiderProjects/UserEditor/UserEditor.ViewModels/UserEditor.ViewModels.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/anton/.nuget/packages/communitytoolkit.mvvm/8.1.0/communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

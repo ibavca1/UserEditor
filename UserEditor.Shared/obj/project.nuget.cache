@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "bD/N42DQBKBxVvXj04Ze4v59Ei+h1uYhUIOUD8g0Hof9ncVzDm9VrYTcxg5BUOQPWuYlXugO1OiIzHkHN0ArZQ==",
+  "dgSpecHash": "rYJR2NvkQtZS/IiQXIWbP50Z3e0GhmAfN4J3M6KAliL0W1UGb/Jnju8dv2eoBYb+qaUyBtgwUVyrU8krIzzEJA==",
   "success": true,
   "projectFilePath": "/Users/anton/RiderProjects/UserEditor/UserEditor.Shared/UserEditor.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/anton/.nuget/packages/newtonsoft.json/13.0.3-beta1/newtonsoft.json.13.0.3-beta1.nupkg.sha512",
+    "/Users/anton/.nuget/packages/refit/6.3.2/refit.6.3.2.nupkg.sha512",
+    "/Users/anton/.nuget/packages/refit.newtonsoft.json/6.3.2/refit.newtonsoft.json.6.3.2.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.net.http.json/6.0.0/system.net.http.json.6.0.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
