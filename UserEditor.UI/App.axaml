@@ -1,6 +1,15 @@
 <Application xmlns="https://github.com/avaloniaui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:e="clr-namespace:MvvmElegance.Xaml;assembly=MvvmElegance.Avalonia"
+             xmlns:local="using:UserEditor.UI"
              x:Class="UserEditor.UI.App">
+    <Application.Resources>
+        <e:ApplicationLoader>
+            <e:ApplicationLoader.Bootstrapper>
+                <local:Bootstraper/>
+            </e:ApplicationLoader.Bootstrapper>
+        </e:ApplicationLoader>
+    </Application.Resources>
     <Application.Styles>
         <FluentTheme Mode="Light"/>
     </Application.Styles>

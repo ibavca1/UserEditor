@@ -6,6 +6,6 @@
         x:Class="UserEditor.UI.Views.MainView"
         Title="MainView">
     <Grid>
-        <TextBlock Text="Avalonia"/>    
+        <TextBlock Text="{Binding Gretting}"/>    
     </Grid>
 </Window>
