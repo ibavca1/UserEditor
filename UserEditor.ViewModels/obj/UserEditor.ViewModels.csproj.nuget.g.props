@@ -14,5 +14,9 @@
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)refit/6.3.2/buildTransitive/netstandard2.0/refit.props" Condition="Exists('$(NuGetPackageRoot)refit/6.3.2/buildTransitive/netstandard2.0/refit.props')" />
+    <Import Project="$(NuGetPackageRoot)avalonia/0.10.11/buildTransitive/Avalonia.props" Condition="Exists('$(NuGetPackageRoot)avalonia/0.10.11/buildTransitive/Avalonia.props')" />
   </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgAvalonia Condition=" '$(PkgAvalonia)' == '' ">/Users/anton/.nuget/packages/avalonia/0.10.11</PkgAvalonia>
+  </PropertyGroup>
 </Project>

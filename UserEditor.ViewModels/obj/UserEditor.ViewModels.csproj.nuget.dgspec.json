@@ -114,6 +114,10 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.1.0, )"
+            },
+            "Material.Avalonia": {
+              "target": "Package",
+              "version": "[2.5.1, )"
             }
           },
           "imports": [

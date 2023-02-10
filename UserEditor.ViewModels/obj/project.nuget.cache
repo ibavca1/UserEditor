@@ -1,17 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "2EIULwWajxx4zW9ZKN8SpgK2X9KLG5cMWcFNFEkzpJpzJL4vU6njdCG9hKCnHhLlacFVho8c3pxOBbonbUvpqw==",
+  "dgSpecHash": "jZBn24zupigQlxnrg6rM2iy+ZuZjhdVDq4tyiCm4wKBXlwL9yrEK8dJ1w8adlfyO5eVOfS3D/TF0dyaLLpYwqg==",
   "success": true,
   "projectFilePath": "/Users/anton/RiderProjects/UserEditor/UserEditor.ViewModels/UserEditor.ViewModels.csproj",
   "expectedPackageFiles": [
+    "/Users/anton/.nuget/packages/avalonia/0.10.11/avalonia.0.10.11.nupkg.sha512",
+    "/Users/anton/.nuget/packages/avalonia.controls.datagrid/0.10.11/avalonia.controls.datagrid.0.10.11.nupkg.sha512",
+    "/Users/anton/.nuget/packages/avalonia.remote.protocol/0.10.11/avalonia.remote.protocol.0.10.11.nupkg.sha512",
     "/Users/anton/.nuget/packages/communitytoolkit.mvvm/8.1.0/communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/dialoghost.avalonia/0.4.0/dialoghost.avalonia.0.4.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/jetbrains.annotations/10.3.0/jetbrains.annotations.10.3.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/material.avalonia/2.5.1/material.avalonia.2.5.1.nupkg.sha512",
+    "/Users/anton/.nuget/packages/material.icons/1.0.8/material.icons.1.0.8.nupkg.sha512",
+    "/Users/anton/.nuget/packages/material.icons.avalonia/1.0.2/material.icons.avalonia.1.0.2.nupkg.sha512",
+    "/Users/anton/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "/Users/anton/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "/Users/anton/.nuget/packages/newtonsoft.json/13.0.3-beta1/newtonsoft.json.13.0.3-beta1.nupkg.sha512",
     "/Users/anton/.nuget/packages/refit/6.3.2/refit.6.3.2.nupkg.sha512",
     "/Users/anton/.nuget/packages/refit.newtonsoft.json/6.3.2/refit.newtonsoft.json.6.3.2.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.componentmodel.annotations/4.5.0/system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/anton/.nuget/packages/system.net.http.json/6.0.0/system.net.http.json.6.0.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
     "/Users/anton/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/anton/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
-    "/Users/anton/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+    "/Users/anton/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
