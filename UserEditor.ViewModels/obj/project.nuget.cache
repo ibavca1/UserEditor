@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "eIGqqLXH8iZ6M/td/Lw2mpRNeiwmA5eONX296b8FiLeHLTCkLPcPxnh4K0HwveO26I9/aoh4j6ILnlPQsxtQ4Q==",
+  "dgSpecHash": "2EIULwWajxx4zW9ZKN8SpgK2X9KLG5cMWcFNFEkzpJpzJL4vU6njdCG9hKCnHhLlacFVho8c3pxOBbonbUvpqw==",
   "success": true,
   "projectFilePath": "/Users/anton/RiderProjects/UserEditor/UserEditor.ViewModels/UserEditor.ViewModels.csproj",
   "expectedPackageFiles": [
-    "/Users/anton/.nuget/packages/communitytoolkit.mvvm/8.1.0/communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+    "/Users/anton/.nuget/packages/communitytoolkit.mvvm/8.1.0/communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/newtonsoft.json/13.0.3-beta1/newtonsoft.json.13.0.3-beta1.nupkg.sha512",
+    "/Users/anton/.nuget/packages/refit/6.3.2/refit.6.3.2.nupkg.sha512",
+    "/Users/anton/.nuget/packages/refit.newtonsoft.json/6.3.2/refit.newtonsoft.json.6.3.2.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.net.http.json/6.0.0/system.net.http.json.6.0.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/anton/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
